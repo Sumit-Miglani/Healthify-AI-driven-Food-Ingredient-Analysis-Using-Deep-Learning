@@ -1,0 +1,877 @@
+Ingredient,Nutrition,HealthBenefits,HealthRisks,DiseaseConcerned,HealthinessScore
+wheat flour (refined),Enriched Vit B,0,May increase risk of chronic diseases,"Celiac, gluten sensitivity",3
+rice flour,Gluten-free,Suitable for gluten intolerance,0,High GI concerns,5
+gram flour (besan),"Rich in fiber, Mg","Promotes heart health, glycemic control",0,Legume allergies,8
+corn flour,Antioxidants,Supports eye health,0,GMO concerns for some varieties,6
+refined flour (maida),0,0,"May contribute to obesity, type 2 diabetes",None,2
+semolina (sooji),Vit B,Supports heart and digestive health,0,Gluten sensitivity,6
+whole wheat flour,High in fiber,"Reduces risk of heart disease, supports digestive health",0,"Celiac disease, gluten sensitivity",7
+potato flakes,"Vit C, B6","Quick energy source, supports heart health",0,None,7
+tapioca starch,Gluten-free,Gluten-free alternative,0,None,4
+chickpea flour,High fiber,"Promotes fullness, supports blood sugar control",0,Legume allergies,9
+lentil flour,Rich in fiber,"Supports heart health, blood sugar control",0,Legume allergies,9
+rice,"Vit B, Mg, Iron","Provides energy, supports nervous system",0,None,5
+cornmeal,"Vit B, Fiber","Supports digestion, heart health",0,GMO concerns,6
+oats,High fiber,"Lowers cholesterol, supports heart health",0,Gluten cross-contamination,8
+barley,Fiber,"Improves digestion, reduces heart disease risk",0,Gluten sensitivity,7
+quinoa,Complete protein,"Supports metabolism, gluten-free",0,None,9
+millet,Antioxidants,"Supports heart health, gluten-free",0,None,7
+sorghum (jowar),"Antioxidants, Fiber","Supports blood sugar control, gluten-free",0,None,8
+pearl millet (bajra),High in iron,"Improves digestion, energy booster",0,None,7
+finger millet (ragi),"Calcium, Iron","Strengthens bones, diabetes management",0,None,9
+edible vegetable oil,Vit E,0,High in calories; overconsumption risk,"Obesity, heart disease",5
+palm oil,Vit E,0,High saturated fat content,Heart disease,4
+sunflower oil,Vit E,Supports heart health,0,None,7
+canola oil,Low in saturated fats,Supports heart health,0,None,7
+olive oil,Monounsaturated fats,Reduces heart disease risk,0,None,9
+coconut oil,Medium-chain triglycerides,0,High in saturated fat,Heart disease,5
+mustard oil,Omega-3,0,Erucic acid concerns,None,6
+ghee (clarified butter),"Vit A, E",Supports digestive health,0,None,6
+butter,0,0,High in saturated fat,Heart disease,4
+margarine,0,0,Trans fats in some types,Heart disease,5
+sugar,0,0,"Risk of obesity, diabetes","Diabetes, obesity",2
+salt,0,0,High blood pressure risk,Hypertension,3
+Turmeric,Curcumin,"Anti-inflammatory, antioxidant properties",0,None,9
+chili powder,Capsaicin,Metabolism boost,0,None,7
+black pepper,Piperine,Digestive benefits,0,None,8
+ajwain (carom seeds),Thymol,Digestive aid,0,None,8
+sesame seeds,"Calcium, magnesium",Supports bone health,0,None,7
+flax seeds,Omega-3 fatty acids,"Supports heart health, digestive health",0,None,9
+sunflower seeds,Vit E,Supports heart health,0,None,7
+poppy seeds,"Calcium, iron","Pain relief, calcium boost",0,None,7
+mustard seeds,Selenium,Anti-inflammatory,0,None,8
+fennel seeds,Fiber,Digestive aid,0,None,8
+fenugreek seeds,Fiber,Blood sugar control,0,None,8
+cardamom,Essential minerals,Digestive health,0,None,8
+cinnamon,Antioxidants,Blood sugar control,0,None,9
+cloves,Eugenol,Antimicrobial,0,None,8
+nutmeg,0,"Pain relief, digestion aid",0,None,7
+mace,0,"Digestive aid, pain relief",0,None,7
+bay leaves,0,Anti-inflammatory,0,None,8
+curry leaves,"Iron, Vit A","Hair, skin benefits",0,None,8
+dried mango powder (amchur),Vit C,"Digestive aid, vitamin boost",0,None,8
+tamarind,"Magnesium, potassium","Laxative, heart health",0,None,6
+jaggery,Minerals,"Digestive health, toxin removal",0,None,6
+honey,Antioxidants,"Antibacterial, cough relief",0,None,6
+baking powder,Sodium bicarbonate,Leavening agent for baking,0,High sodium intake concerns,7
+baking soda,Sodium bicarbonate,"Leavening agent, pH balance for baking",0,High sodium intake concerns,7
+yeast,0,"Leavening agent, nutrient source",0,None,7
+artificial flavors,0,0,Potential health concerns,"Allergies, sensitivities",3
+natural flavors,0,Flavor enhancement,0,"Allergies, sensitivities",6
+citric acid,Antioxidant,"Preservative, flavor",0,None,7
+ascorbic acid,Vit C,"Antioxidant, preservative",0,None,9
+vinegar,Acetic acid,"Weight management, blood sugar control",0,None,8
+soy sauce,0,0,High sodium,Hypertension,4
+tomato powder,"Vit C, lycopene","Flavor, health benefits of tomatoes",0,None,7
+cocoa powder,Antioxidants,"Heart health, mood improvement",0,None,8
+chocolate chips,0,0,"High sugar, calories","Obesity, diabetes",4
+vanilla extract,0,Flavor enhancement,0,None,7
+artificial colors,0,0,Potential health concerns,"Allergies, hyperactivity in children",2
+monosodium glutamate (msg),0,0,Sensitivity in some individuals,None,5
+hydrolyzed vegetable protein,0,0,High sodium,Hypertension,5
+maltodextrin,0,0,High glycemic index,Diabetes,3
+dextrose,0,0,High blood sugar risk,Diabetes,3
+fructose,0,0,High intake risks,"Obesity, liver disease",3
+glucose syrup,0,0,High blood sugar risk,Diabetes,3
+corn syrup,0,0,High blood sugar risk,"Diabetes, obesity",2
+high fructose corn syrup,0,0,"Linked to obesity, diabetes","Obesity, diabetes",2
+starch,0,0,High GI,Diabetes,5
+agar-agar,Fiber,"Vegetarian gelatin substitute, promotes gut health",0,None,8
+carrageenan,0,0,Possible digestive issues,None,4
+xanthan gum,Fiber,"Thickener, may lower blood sugar",0,None,6
+guar gum,Fiber,"Thickener, may improve digestive health",0,None,7
+pectin,Fiber,"Promotes digestive health, natural gelatin",0,None,8
+lecithin,0,"Improves cholesterol levels, emulsifier",0,Soy allergies (if sourced from soy),7
+aspartame,0,0,"Potential headache, cancer risk",Phenylketonuria,2
+sucralose,0,Sweetener without calories,0,None,3
+stevia,0,"Natural, no-calorie sweetener, may lower blood pressure",0,None,8
+malt extract,0,"Enhances flavor, provides nutrients",0,Gluten sensitivity,6
+cheese powder,Calcium,"Flavor enhancement, nutrient source",0,"High blood pressure, heart disease",5
+milk powder,"Calcium, Vitamins",Convenient nutrient source,0,Lactose intolerance,7
+cream powder,0,0,High in saturated fat,Heart disease,4
+yogurt powder,"Probiotics, calcium","Digestive health, nutrient source",0,Lactose intolerance,7
+onion powder,Antioxidants,"Flavor enhancement, nutrient boost",0,None,8
+garlic powder,Allicin,"Immune support, heart health",0,None,9
+ginger powder,Gingerol,"Nausea relief, anti-inflammatory",0,None,9
+green chili powder,Capsaicin,"Metabolism boost, pain relief",0,None,8
+tomato paste,"Lycopene, Vit C","Antioxidant, supports heart health",0,None,9
+mushroom,"Vit D, Selenium",Boosts immune system,0,None,9
+paneer (cottage cheese),"Calcium, Protein","Bone health, muscle repair",0,Lactose intolerance,7
+tofu,"Isoflavones, Protein","Heart health, bone health",0,Soy allergies,8
+soy chunks,"Protein, Fiber","Muscle health, digestive health",0,Soy allergies,8
+green peas,"Vit K, Fiber",Supports blood sugar control,0,None,9
+carrot,"Beta-carotene, Fiber","Eye health, digestive health",0,None,9
+beans,"Protein, Fiber","Heart health, blood sugar control",0,None,9
+cauliflower,"Vit C, Choline","Brain health, anti-inflammatory",0,None,9
+broccoli,"Vit C, K","Cancer prevention, antioxidant",0,None,9
+spinach,"Iron, Vit A","Eye health, immune support",0,None,9
+corn kernels,"Fiber, Vit B","Energy production, digestive health",0,GMO concerns,7
+red bell pepper,"Vit C, A","Immune support, skin health",0,None,9
+yellow bell pepper,"Vit C, Carotenoids","Antioxidant, heart health",0,None,9
+green bell pepper,"Vit C, E","Antioxidant, supports metabolism",0,None,9
+bamboo shoots,"Fiber, Potassium","Digestive health, cardiovascular health",0,None,8
+water chestnut,"Potassium, Fiber","Energy, digestive health",0,None,7
+baby corn,"Fiber, Vit C","Low calorie, fiber-rich",0,None,7
+chickpeas,"Protein, Fiber","Blood sugar control, digestive health",0,None,9
+kidney beans,"Protein, Fiber","Heart health, cholesterol management",0,None,9
+black beans,"Antioxidants, Protein","Heart health, blood sugar control",0,None,9
+lentils,"Protein, Iron","Energy, heart health",0,None,9
+pigeon peas (toor dal),"Protein, Fiber","Energy, digestive health",0,None,8
+black eyed peas,"Protein, Fiber","Heart health, digestive health",0,None,8
+mung beans,"Protein, Vit B","Blood pressure, digestive health",0,None,9
+cabbage,"Vit K, C","Cancer prevention, inflammation reduction",0,None,9
+pumpkin,"Beta-carotene, Fiber","Eye health, weight management",0,None,9
+zucchini,"Vit C, Antioxidants","Heart health, hydration",0,None,9
+eggplant,"Fiber, Antioxidants","Heart health, blood sugar control",0,None,8
+sweet potato,"Beta-carotene, Vit A","Immune support, vision health",0,None,9
+beetroot,"Folate, Fiber","Blood pressure control, stamina",0,None,9
+cucumber,"Hydration, Vit K","Hydration, skin health",0,None,8
+radish,"Vit C, Potassium","Digestive health, blood pressure control",0,None,8
+okra (ladyfinger),"Vit C, Fiber","Blood sugar control, heart health",0,None,9
+bottle gourd,"Vit C, Water","Weight loss, hydration",0,None,8
+ridge gourd,"Vit C, Fiber","Weight loss, blood sugar control",0,None,8
+bitter gourd,"Charantin, Vit C",Blood sugar control,0,None,8
+drumstick,"Vit C, Potassium","Bone health, blood sugar control",0,None,8
+fenugreek leaves (methi),"Fiber, Iron","Blood sugar control, cholesterol management",0,None,8
+mint leaves,"Vit A, Menthol","Digestive aid, oral health",0,None,9
+coriander leaves,"Vit C, A","Detoxification, skin health",0,None,9
+dill leaves,"Vit C, Calcium","Bone health, digestion aid",0,None,8
+saffron,Antioxidants,"Mood improvement, PMS symptoms relief",0,None,8
+star anise,Shikimic acid,"Antiviral, digestion aid",0,None,8
+aniseed (saunf),"Iron, Calcium","Digestion, breath freshener",0,None,8
+black salt,Minerals,"Digestive aid, heartburn relief",0,None,7
+rock salt,Minerals,"Electrolyte balance, digestion aid",0,None,7
+kala namak,Sulfur compounds,"Digestive aid, vegan egg flavoring",0,None,7
+sea salt,Minerals,"Trace minerals, flavor enhancement",0,None,7
+himalayan pink salt,84 minerals,"Electrolyte balance, detoxification",0,None,7
+asafoetida (hing),Ferula compounds,"Digestive aid, reduces bloating",0,None,8
+almonds,"Vit E, Magnesium","Heart health, brain function",0,None,9
+cashews,"Magnesium, Zinc","Bone health, immune support",0,None,8
+peanuts,"Protein, Healthy fats","Heart health, muscle building",0,Peanut allergies,7
+pistachio,Flavor,Adds pistachio flavor to dishes and desserts,0,Nut allergies,5
+walnuts,"Omega-3, Antioxidants","Brain health, heart health",0,None,9
+raisins,"Iron, Potassium","Digestion, energy boost",0,None,7
+dates,"Fiber, Potassium","Energy boost, digestive health",0,None,8
+figs,"Fiber, Calcium","Bone health, digestive health",0,None,8
+apricots,"Vit A, C","Skin health, eye health",0,None,8
+prunes,"Fiber, Potassium","Digestive health, bone health",0,None,8
+coconut milk,MCTs,"Energy, brain function",0,None,6
+coconut cream,MCTs,"Rich texture in cooking, energy",0,None,6
+almond milk,"Vit D, Calcium (fortified)","Bone health, dairy alternative",0,Nut allergies,8
+soy milk,"Protein, Vit D (fortified)","Heart health, dairy alternative",0,Soy allergies,8
+rice milk,Carbohydrates,"Dairy alternative, hypoallergenic",0,None,5
+oat milk,"Fiber, Vit B","Heart health, dairy alternative",0,Gluten sensitivity,7
+cashew milk,"Vit E, Magnesium","Heart health, dairy alternative",0,Nut allergies,7
+cream cheese,Fat,0,High in saturated fat,Heart disease,5
+Sour Cream,"Fat, Vitamin A",0,High in saturated fat,Heart conditions,5
+evaporated milk,"Calcium, Vit D",Concentrated milk nutrients,0,Lactose intolerance,6
+Condensed Milk,"Sugar, Calcium",0,High in sugar,"Diabetes, Obesity",5
+buttermilk,Probiotics,Digestive health,0,Lactose intolerance,7
+whey,Protein,"Muscle repair, weight loss aid",0,Lactose intolerance,8
+skim milk,"Calcium, Protein","Bone health, low-fat",0,Lactose intolerance,7
+Full Cream Milk,"Calcium, Protein","Nutrient-rich, supports bone health",0,Lactose intolerance,7
+heavy cream,Fat,0,High in saturated fat,Heart disease,5
+light cream,Fat,0,"Creaminess with fewer calories, High in saturated fat",Heart disease,6
+cottage cheese,"Protein, Calcium","Muscle repair, bone health",0,Lactose intolerance,7
+feta cheese,Calcium,0,High in sodium,Heart disease,6
+mozzarella cheese,"Protein, Calcium","Muscle repair, bone health",0,Lactose intolerance,7
+parmesan cheese,"Calcium, Protein",0,High in sodium,Heart disease,7
+gouda cheese,"Calcium, Vit K2","Bone health, dental health",0,Lactose intolerance,7
+cheddar cheese,"Calcium, Protein","Heart health, muscle repair",0,Lactose intolerance,7
+blue cheese,"Calcium, Protein","Bone health, flavor enhancement",0,Lactose intolerance,7
+romano cheese,"Calcium, Protein",0,High in sodium,Heart disease,6
+goat cheese,"Protein, Calcium","Digestibility, bone health",0,Lactose intolerance,7
+yeast extract,B vitamins,"Umami flavor, nutrient boost",0,Yeast allergies,7
+seaweed,"Iodine, Vitamins","Thyroid support, heart health",0,None,9
+nori,"Vitamins, Minerals","Thyroid function, vegan nutrient source",0,None,9
+spirulina,"Protein, Vit B12","Immune support, energy boost",0,None,9
+chlorella,"Chlorophyll, Protein","Detoxification, immune support",0,None,9
+kombu,"Iodine, Fiber","Digestive health, umami flavor",0,None,8
+wakame,"Fucoxanthin, Fiber","Weight management, cardiovascular health",0,None,9
+fish sauce,"Umami, Protein",0,High in sodium,Hypertension,5
+oyster sauce,"Umami, Sugar",0,High in sodium,Hypertension,5
+hoisin sauce,"Sugar, Vinegar",0,High sugar content,Diabetes,5
+sriracha sauce,"Capsaicin, Vinegar, Metabolism boost",0,0,None,7
+chili sauce,"Capsaicin, Sugar",0,High sugar content,Diabetes,6
+teriyaki sauce,"Soy, Sugar",0,High in sodium,Hypertension,5
+live active cultures,Probiotics,"Gut health, immune support",0,None,9
+probiotic strains,Varied probiotics,"Digestive health, immune function",0,Immune disorders,9
+kefir grains,"Probiotics, Yeast","Gut health, antimicrobial properties",0,Dairy sensitivity,9
+acid whey,"Protein, Minerals","Muscle repair, nutritional recovery",0,Lactose intolerance,7
+sweet whey,"Lactose, Protein","Energy, muscle growth",0,Lactose intolerance,7
+lactose monohydrate,"Carbs, Energy Source",0,Digestive issues,Lactose intolerance,5
+milk protein isolate,"Protein, Low lactose","Muscle growth, recovery",0,Milk allergies,8
+milk protein concentrate,"Protein, Vitamins","Muscle maintenance, satiety",0,Milk allergies,8
+sodium caseinate,Protein,"Muscle repair, food stabilizer",0,Milk allergies,7
+calcium caseinate,Protein,"Muscle growth, calcium source",0,Milk allergies,7
+magnesium caseinate,"Protein, Magnesium","Muscle function, metabolic support",0,Milk allergies,7
+zinc caseinate,"Protein, Zinc","Immune support, enzyme processes",0,Milk allergies,7
+fermented milk powder,Probiotics,"Gut health, immune support",0,Dairy sensitivity,8
+colostrum powder,Immunoglobulins,Immune system boost,0,None,9
+buttermilk solids,"Protein, Lactic acid","Flavor, tenderizing agent",0,Lactose intolerance,7
+dairy cream powder,Fat,0,High saturated fat,Heart disease,5
+sour cream powder,"Fat, Cultures",0,High in fat,Heart disease,5
+whey protein isolate,"Protein, Low lactose","Muscle repair, lean muscle growth",0,Milk allergies,8
+lactoferrin,Protein,"Antimicrobial, immune support",0,None,9
+lactoglobulin,Protein,Amino acid supply,0,Milk allergies,7
+lactalbumin,Protein,Nutritional supplement,0,Milk allergies,7
+milk fat globule membrane,Lipids,Cognitive development,0,Milk allergies,7
+proline-rich polypeptides,Peptides,Immune modulation,0,None,8
+immunoglobulins,Proteins,Immune defense,0,None,9
+beta-lactoglobulin,Whey protein,"Vitamin carrier, nutritional",0,Milk allergies,7
+alpha-lactalbumin,Protein,"High tryptophan, sleep aid",0,Milk allergies,8
+glycomacropeptide,Peptide,"Satiety, PKU management",0,Phenylketonuria,8
+phospholipids,Fats,"Cell membrane health, cognitive function",0,None,8
+sphingolipids,Lipids,"Neural protection, skin health",0,None,8
+conjugated linoleic acid,Fat,"Weight management, cancer prevention",0,None,8
+omega-3 fatty acids,Fat,"Heart health, anti-inflammatory",0,None,9
+omega-6 fatty acids,Fat,"Essential fatty acids, growth and development",0,None,7
+medium chain triglycerides,Fat,"Energy, metabolic health",0,None,7
+diacetyl ,"Buttery flavor, Compound",0,Respiratory concerns in manufacturing,None,5
+ethyl vanillin,Compound,Vanilla flavor,0,None,6
+vanilla bean,Compound,"Flavor, antioxidant properties",0,None,8
+almond extract,Compound,Flavor,0,Nut allergies,5
+rose water,Flavor,"Digestive aid, mood enhancer",0,None,8
+orange blossom water,Flavor,"Calmative, digestive aid",0,None,8
+cardamom extract,Flavor,Digestive health,0,None,8
+saffron extract,Compounds,"Mood improvement, appetite control",0,None,9
+pistachio extract,Flavor,good for blood sugar balance,0,Nut allergies,5
+mango extract,Flavor,Infuses mango flavor into culinary creations,0,None,6
+strawberry extract,Flavor,Provides strawberry flavoring without the fruit,0,None,6
+raspberry extract,Flavor,Antioxidants,0,None,7
+blueberry extract,Flavor,Antioxidants,0,None,7
+lemon extract,Flavor,"Detoxification, vitamin C",0,None,8
+lime extract,Flavor,"Vitamin C, flavoring",0,None,8
+cherry extract,Flavor,Antioxidant properties,0,None,7
+peppermint extract,Flavor,Digestive aid,0,None,8
+spearmint extract,Flavor,Digestive aid,0,None,8
+cocoa extract,Flavonoids,"Antioxidant, mood improvement",0,None,8
+coffee extract,Caffeine,"Alertness, antioxidant",0,Overconsumption issues,7
+hazelnut extract,Flavor,Adds hazelnut flavor to beverages and baked goods,0,Nut allergies,5
+caramel color,Color,Aesthetic appeal,0,None,5
+titanium dioxide ,"Whiteness, opacity",0,Inhalation risk in manufacturing,None,5
+beetroot red (for color),Natural color,Antioxidants,0,None,8
+anthocyanins (for color),Natural color,Antioxidant properties,0,None,9
+turmeric (for color),Curcumin,"Anti-inflammatory, antioxidant",0,None,9
+annatto extract (for color),Natural color,Antioxidant,0,None,7
+carotenes (for color),Natural color,"Vitamin A source, antioxidant",0,None,9
+lutein (for color),Compound,Eye health,0,None,9
+paprika extract (for color),"Capsaicin, Vitamins","Antioxidant, anti-inflammatory",0,None,8
+chlorophyll (for color),Natural color,Detoxification properties,0,None,8
+cochineal extract (for color),Natural color,0,Potential allergen,Allergies to cochineal,5
+calcium lactate,Calcium,Bone health,0,None,7
+potassium citrate,Potassium,Electrolyte balance,0,None,7
+sodium citrate,"Sodium, pH balance",0,High sodium intake,None,6
+magnesium citrate,Magnesium,"Digestive aid, muscle function",0,None,8
+zinc gluconate,Zinc,Immune support,0,None,8
+ferrous gluconate,Iron,Anemia prevention,0,None,7
+copper gluconate,Copper,"Energy production, iron absorption",0,None,7
+manganese gluconate,Manganese,"Bone health, antioxidant",0,None,7
+chromium picolinate,Chromium,Blood sugar control,0,None,7
+selenium yeast,Selenium,"Antioxidant, thyroid function",0,None,8
+molybdenum yeast,Molybdenum,Enzyme function,0,None,7
+iodised salt,Iodine,Thyroid health,0,None,6
+erythritol,Sugar alcohol,Sweetness without calories,0,Digestive discomfort,7
+monk fruit sweetener,Natural sweetener,No-calorie sweetness,0,None,8
+agave syrup,"Fructose, sweetness",0,High fructose content,None,5
+maple syrup,"Minerals, antioxidants, Natural sweetness",0,High sugar content,None,6
+brown rice syrup,"Glucose, Energy",0,High glycemic index,Diabetes,5
+prebiotic fibers,Dietary fiber,"Gut health, digestion support",0,None,9
+inulin,Fiber,"Prebiotic, gut health",0,Digestive discomfort,8
+polydextrose,Fiber,Low-calorie bulking agent,0,Digestive discomfort,6
+resistant starch,Fiber,"Digestive health, glycemic control",0,None,9
+gos,Galactooligosaccharides,"Prebiotic, gut health",0,None,9
+fos,Fructooligosaccharides,"Prebiotic, calcium absorption",0,None,9
+acacia gum,Fiber,"Prebiotic, gut health",0,None,8
+arabic gum,Fiber,"Prebiotic, gut health",0,None,8
+alginate,Polysaccharide,"Thickening, stabilizing",0,None,6
+gelatin,Protein,"Gelling agent, joint health",0,Vegetarians,6
+agar,Polysaccharide,Vegetarian gelatin substitute,0,None,8
+microbial rennet,Enzyme,Cheese production,0,None,9
+liquid smoke,Compound,Flavoring for cheeses,0,None,6
+edible gold leaf,Metal,Decoration,0,None,5
+cocoa mass,Antioxidants,"Heart health, mood improvement",0,None,8
+cocoa butter,"Fats, Skin health, satiety",0,High in saturated fat,None,6
+milk solids,"Protein, Calcium","Bone health, muscle growth",0,Lactose intolerance,7
+dark chocolate,Flavonoids,"Antioxidant, heart health",0,"Diabetes, high sugar content",7
+milk chocolate,"Sugar, Milk",0,High sugar and fat,"Diabetes, obesity",5
+white chocolate,"Sugar, Cocoa Butter",0,High sugar and fat,"Diabetes, obesity",4
+compound chocolate,Vegetable Fats,0,Lower nutritional value,None,4
+chocolate liquor,Cocoa solids,"Antioxidants, mood improvement",0,None,7
+cacao nibs,"Fiber, Magnesium","Antioxidant, heart health",0,None,9
+cacao powder,Antioxidants,"Blood pressure reduction, mood",0,None,8
+beet sugar,"Sucrose, Energy",0,High sugar content,Diabetes,2
+cane sugar,"Sucrose, Energy",0,High sugar content,Diabetes,2
+brown sugar,"Sucrose, Slight Minerals",0,High sugar content,Diabetes,2
+powdered sugar,Sucrose,0,High sugar content,Diabetes,2
+icing sugar,Sucrose,0,High sugar content,Diabetes,2
+palm sugar,"Lower GI than white sugar, Minerals",0,High sugar content,Diabetes,4
+golden syrup,Sugar,0,High sugar content,Diabetes,2
+molasses,Iron and calcium source,0,High sugar content,Diabetes,4
+toffee,"Sugar, Butter",0,High sugar and fat,"Diabetes, obesity",3
+caramel,"Sugar, Cream",0,High sugar content,Diabetes,3
+fudge,"Sugar, Milk, Butter",0,High sugar and fat,"Diabetes, obesity",3
+nougat,"Sugar, Nuts",0,High sugar content,Diabetes,4
+marshmallow,"Sugar, Gelatin",0,High sugar content,Diabetes,2
+acacia gum (gum arabic),Fiber,"Prebiotic, food stabilizer",0,None,7
+corn starch,Carbohydrates,Thickening agent,0,None,5
+arrowroot,Starch,Gluten-free thickener,0,None,6
+fruit concentrates,"Vit, Natural sweetener",0,High sugar content,Diabetes,5
+fruit extracts,Vitamins,"Flavoring, nutrients",0,None,7
+vegetable extracts,Nutrients,"Flavoring, nutrients",0,None,7
+almond paste,"Fats, Protein",0,High calorie,Nut allergies,6
+pistachio paste,"Fats, Protein",0,High calorie,Nut allergies,6
+hazelnut paste,"Fats, Vit E",0,High calorie,Nut allergies,6
+marzipan,"Sugar, Almonds",0,High sugar content,Nut allergies,3
+fondant,Sugar,0,High sugar content,Diabetes,2
+glucose,Carbohydrate,0,High GI,Diabetes,5
+invert sugar,"Sucrose, Bakery Softness",0,High sugar content,Diabetes,2
+sorbitol,Sugar alcohol,Low-calorie sweetener,0,Digestive discomfort,6
+maltitol,Sugar alcohol,Sugar-free sweetener,0,Digestive discomfort,6
+xylitol,Sugar alcohol,"Dental health, low-calorie",0,Digestive discomfort,7
+isomalt,Sugar alcohol,Sugar-free sweetener,0,Digestive discomfort,6
+mannitol,Sugar alcohol,Low-calorie sweetener,0,Digestive discomfort,6
+stevia extract,Steviol glycosides,No-calorie sweetness,0,None,8
+licorice extract,Digestive aid,0,High blood pressure,Hypertension,5
+mint extract,Flavor,Digestive aid,0,None,7
+peppermint oil,Menthol,"Digestive aid, flavoring",0,None,8
+spearmint oil,Menthol,"Digestive aid, flavoring",0,None,8
+orange oil,Flavor,"Flavoring, vitamin C",0,None,7
+lemon oil,Flavor,"Flavoring, vitamin C",0,None,7
+lime oil,Flavor,"Flavoring, vitamin C",0,None,7
+cherry flavor,Flavor,Confectionery flavoring,0,None,5
+raspberry flavor,Flavor,Confectionery flavoring,0,None,5
+strawberry flavor,Flavor,Confectionery flavoring,0,None,5
+blueberry flavor,Flavor,Confectionery flavoring,0,None,5
+almond flavor,Flavor,Confectionery flavoring,0,Nut allergies,5
+vanilla essence,Vanillin,Flavor,0,None,6
+ethyl vanillin,Flavor,Stronger vanilla flavor,0,None,6
+butter oil,Fat,0,High saturated fat,Heart disease,5
+clarified butter,Fat,0,High saturated fat,Heart disease,5
+coconut milk powder,"Vegan, Fats, Minerals",0,High saturated fat,None,6
+skimmed milk powder,"Protein, Calcium","Nutrient-rich, low fat",0,Lactose intolerance,7
+whey powder,Protein,"Muscle repair, growth",0,Lactose intolerance,7
+lactose,Carbohydrate,0,Digestive issues,Lactose intolerance,5
+casein,Protein,"Muscle growth, recovery",0,Milk allergies,7
+emulsifiers,Various,"Food texture, stability",0,None,6
+anti-caking agents,Various,Prevents clumping,0,None,6
+acidulants,Various,"Flavor, pH balance",0,None,6
+flavor enhancers,Various,Enhances taste,0,None,6
+preservatives,Various,Extends shelf life,0,None,5
+coloring agents,Various,Aesthetic appeal,0,None,5
+edible glitter,Decoration,Aesthetic appeal,0,None,5
+silver leaf (varq),Metal,Decoration,0,None,5
+gold leaf,Metal,Decoration,0,None,5
+sprinkles,"Sugar, Color",0,High sugar content,Diabetes,3
+decorative sugar pearls,Sugar,0,High sugar content,Diabetes,3
+fruit jellies,"Sugar, Pectin",0,High sugar content,Diabetes,3
+gummy candies,"Sugar, Gelatin",0,High sugar content,Diabetes,2
+hard candies,Sugar,0,High sugar content,Diabetes,2
+lollipop,Sugar,0,High sugar content,Diabetes,2
+chewing gum,"Sugar alcohol, Flavors",0,Digestive discomfort in excess,None,6
+bubble gum,"Sugar, Flavors",0,High sugar content,Diabetes,2
+coconut sugar,Lower GI than white sugar,0,High sugar content,Diabetes,4
+diastatic malt powder,Enzymes,Dough conditioning,0,None,6
+non-diastatic malt powder,Flavor,0,High sugar content,Diabetes,5
+maltose,Sugar,0,High glycemic index,Diabetes,3
+trehalose,"Sugar, Stability, moisture in foods",0,High glycemic index,Diabetes,3
+fruit pectin,Fiber,"Gelling agent, digestive health",0,None,8
+filtered water,0,Hydration,0,None,10
+spring water,Minerals,"Hydration, mineral intake",0,None,9
+mineral water,Minerals,"Hydration, electrolyte balance",0,None,9
+carbonated water,Hydration,0,Bloating in some cases,None,7
+fruit juice concentrate,"Vitamins, Sugars",0,High sugar content,Diabetes,5
+vegetable juice concentrate,"Vitamins, Minerals","Nutrient-rich, flavor",0,None,8
+tea extract,Antioxidants,Antioxidant properties,0,None,8
+green tea extract,Catechins,"Metabolism, brain function",0,None,9
+black tea extract,Theaflavins,"Heart health, antioxidant",0,None,8
+chicory extract,Inulin,Digestive health,0,None,7
+yerba mate extract,"Caffeine, Antioxidants",0,Caffeine related,None,7
+rooibos extract,Antioxidants,"Stress relief, heart health",0,None,9
+herbal extracts,Varied,Varies based on type; can offer therapeutic benefits,0,None,7
+ginger extract,Gingerol,"Nausea relief, anti-inflammatory",0,None,9
+turmeric extract,Curcumin,"Anti-inflammatory, antioxidant",0,None,9
+aloe vera juice,"Vitamins, Minerals","Digestive health, skin care",0,Laxative effect in excess,7
+coconut water,Electrolytes,"Hydration, nutrient replenishment",0,None,9
+electrolytes,Electrolytes,"Hydration, balance",0,None,9
+vitamin c,Antioxidant,"Immune support, skin health",0,None,9
+vitamin e,Antioxidant,"Skin health, anti-inflammatory",0,None,8
+b vitamins,Energy metabolism,"Energy, brain function",0,None,9
+vitamin d,0,"Bone health, immune support",0,None,9
+zinc,0,"Immune function, wound healing",0,None,8
+selenium,0,"Antioxidant, thyroid function",0,None,8
+chromium,0,Blood sugar regulation,0,None,7
+l-carnitine,0,"Energy production, fat metabolism",0,None,7
+taurine,0,"Heart health, eye health",0,None,7
+caffeine,Stimulant,"Alertness, metabolism boost",0,Overconsumption alert,6
+malic acid,0,"Flavor enhancer, saliva production",0,None,7
+phosphoric acid,0,Acidity regulator,0,High intake concerns,6
+lactic acid,0,0,preservative,None,7
+tartaric acid,antioxidant,improves overall health,0,None,7
+acesulfame k,low-calorie sweetner,0,Potential health concerns,None,4
+saccharin,low-calorie sweetner,0,Potential health concerns,None,4
+steviol glycosides,No-calorie sweetness,0,0,None,8
+potassium sorbate,Preservative,0,skin irritation,allergic reactions,5
+sodium benzoate,Preservative,0,"inflammation, oxidative stress","obesity, ADHD",5
+calcium disodium edta,Preservative,0,"Joint Pain, Headache, Nausea, decreased appetite",Allergic Reactions,6
+sodium chloride,Salt,sodium rich,0,Hypertension,5
+potassium chloride,salt alternative,Low-sodium ,0,None,6
+magnesium sulphate,"Supplement, laxative",0,Overuse issues,None,6
+sodium bicarbonate,Leavening agent,"Baking, pH balance",0,None,7
+potassium bicarbonate,Leavening agent,Low-sodium baking,0,None,7
+quinine,Tonic water flavor,0,Side effects in high doses,None,5
+gingerol,Anti-inflammatory,"Digestive aid, nausea relief",0,None,9
+capsaicin,Pain relief,"Metabolism boost, pain relief",0,None,7
+mint essence,Flavor,"Digestive aid, freshening",0,None,8
+lemon essence,Flavor,Flavor enhancement,0,None,8
+lime essence,Flavor,Flavor enhancement,0,None,8
+orange essence,Flavor,Flavor enhancement,0,None,8
+rose essence,Flavor,Flavor enhancement,0,None,8
+saffron essence,Flavor,Flavor enhancement,0,None,9
+cardamom essence,Flavor,Digestive aid,0,None,8
+cinnamon essence,Flavor,Antioxidant properties,0,None,8
+clove essence,Flavor,"Antimicrobial, analgesic",0,None,8
+nutmeg essence,Flavor,Digestive aid,0,None,8
+peppermint essence,Flavor,Digestive aid,0,None,8
+spearmint essence,Flavor,Digestive aid,0,None,8
+hibiscus essence,Flavor,Antioxidant properties,0,None,8
+chamomile essence,Flavor,"Relaxation, digestive aid",0,None,9
+lavender essence,Flavor,"Relaxation, flavor enhancement",0,None,8
+jasmine essence,Flavor,Flavor enhancement,0,None,8
+elderflower essence,Flavor,Flavor enhancement,0,None,8
+rosehip essence,Flavor,"Vitamin C, flavor enhancement",0,None,8
+lemongrass essence,Flavor,"Digestive aid, flavor enhancement",0,None,8
+almond essence,Flavor,Flavor enhancement,0,Nut allergies,5
+hazelnut essence,Flavor,Flavor enhancement,0,Nut allergies,5
+anthocyanins,Natural color,Antioxidant properties,0,None,9
+beta-carotene,"Color, Vitamin A","Antioxidant, vitamin A source",0,None,9
+chlorophyll,Color,Detoxification properties,0,None,8
+riboflavin,Vitamin B2,Energy metabolism,0,None,9
+carminic acid,red color,0,Allergies in rare cases,None,5
+titanium dioxide,Whitening agent,0,Concerns in nanoparticle form,None,5
+propylene glycol alginate,Stabilizer,"Food texture, emulsifier",0,None,6
+glycerol esters of wood rosin,Stabilizer,Beverage emulsion stability,0,None,6
+bulgur wheat,"Fiber, Protein","Digestive health, blood sugar control",0,Gluten sensitivity,8
+couscous,"Protein, Selenium","Energy source, selenium intake",0,Gluten sensitivity,6
+polenta,"Carbohydrates, Vitamins","Energy source, gluten-free",0,None,7
+arborio rice,Carbohydrates,"Energy source, suitable for risotto",0,None,6
+sushi rice,Carbohydrates,0,High glycemic index,Diabetes,5
+wild rice,"Protein, Fiber","Nutrient-rich, antioxidant",0,None,9
+kodo millet,"Fiber, Phytochemicals","Blood sugar control, weight management",0,None,8
+barnyard millet,"Fiber, Iron","Digestive health, iron source",0,None,8
+little millet,"Magnesium, Fiber","Heart health, glycemic control",0,None,8
+foxtail millet,"Protein, Iron","Immune support, energy",0,None,8
+proso millet,"Protein, Vitamins","Energy, nutrient provision",0,None,8
+sorghum flour,"Fiber, Protein","Gluten-free, heart health",0,None,8
+arrowroot powder,Carbohydrates,"Digestive aid, gluten-free thickener",0,None,7
+sago (sabudana),Carbohydrates,"Energy source, non-allergenic",0,None,5
+pearl tapioca,Carbohydrates,"Gluten-free, energy source",0,None,5
+red kidney beans,"Protein, Fiber","Heart health, digestive aid",0,None,9
+lima beans,"Fiber, Manganese","Blood sugar control, energy",0,None,8
+adzuki beans,"Protein, Iron","Muscle health, iron source",0,None,9
+garbanzo beans,"Protein, Fiber","Heart health, muscle maintenance",0,None,9
+cannellini beans,"Protein, Fiber","Weight management, digestive health",0,None,9
+fava beans,"Protein, Vitamins","Immune support, energy",0,G6PD deficiency,8
+mung dal,"Protein, Fiber","Digestive health, blood sugar control",0,None,9
+urad dal,"Protein, Potassium","Energy, bone health",0,None,8
+masoor dal,"Protein, Iron","Heart health, energy provision",0,None,9
+chana dal,"Fiber, Protein","Digestive health, glycemic control",0,None,9
+toor dal,"Protein, Fiber","Energy, digestive health",0,None,9
+green moong dal,"Protein, Fiber","Heart health, weight loss",0,None,9
+black chickpeas,"Protein, Fiber","Muscle health, digestive aid",0,None,9
+white chickpeas,"Protein, Fiber","Heart health, blood sugar control",0,None,9
+dalia,"Fiber, Protein","Weight management, energy",0,Gluten sensitivity,7
+vermicelli,Carbohydrates,"Energy source, versatile use",0,Gluten sensitivity,5
+brown basmati rice,"Fiber, Nutrients","Glycemic control, digestive health",0,None,8
+red rice,"Antioxidants, Fiber","Heart health, cholesterol control",0,None,8
+bamboo rice,"Protein, Vitamins","Joint health, cholesterol control",0,None,8
+black lentils,"Protein, Iron","Energy, heart health",0,None,9
+green peas dal,"Protein, Fiber","Heart health, weight management",0,None,9
+kabuli chickpeas,"Protein, Fiber","Digestive health, heart health",0,None,9
+green chickpeas,"Protein, Vitamins","Muscle health, vitamin intake",0,None,9
+jowar flour,"Fiber, Protein","Gluten-free, blood sugar control",0,None,8
+bajra flour,"Fiber, Iron","Energy, digestion aid",0,None,8
+rajgira flour,"Protein, Calcium","Bone health, energy",0,None,8
+singhara flour,Carbohydrates,"Energy source, gluten-free",0,None,7
+kuttu flour,"Protein, Fiber","Weight loss, heart health",0,None,8
+rice flakes,Carbohydrates,"Easy digestion, energy",0,None,6
+beaten rice,Carbohydrates,"Energy source, light meal",0,None,6
+idli rice,Carbohydrates,"Fermented foods, digestive health",0,None,6
+dosa rice,Carbohydrates,"Fermented foods, energy",0,None,6
+matta rice,Nutrients,"Nutrient-rich, energy",0,None,7
+ponni rice,Carbohydrates,"Energy source, low GI option",0,None,6
+sella rice,Carbohydrates,"Energy, slightly better GI",0,None,6
+black salt powder,Minerals,"Digestive aid, flavoring",0,None,7
+sea salt flakes,Minerals,0,High sodium intake,Hypertension,6
+pink himalayan salt crystals,Minerals,"Electrolyte balance, detoxification",0,Hypertension,6
+apple cider vinegar,Acetic acid,"Weight management, digestive aid",0,None,7
+balsamic vinegar,Acetic acid,"Flavor, antioxidant properties",0,None,7
+rice vinegar,Acetic acid,"Flavor enhancement, mild",0,None,7
+white vinegar,Acetic acid,"Cleaning, mild flavoring",0,None,7
+red wine vinegar,Acetic acid,"Antioxidant, flavoring",0,None,7
+black vinegar,Acetic acid,"Digestive health, flavoring",0,None,7
+date vinegar,Acetic acid,"Antioxidant, flavoring",0,None,7
+miso paste,"Probiotics, Protein","Digestive health, flavor",0,Hypertension,7
+tahini,"Fat, Calcium","Heart health, bone health",0,None,8
+tamari,"Soy, Minerals",Gluten-free soy sauce alternative,0,Hypertension,6
+sriracha,"Capsaicin, Vinegar","Metabolism, flavor",0,Hypertension,6
+gochujang,Fermented soybeans,"Flavor, probiotics",0,Hypertension,6
+harissa paste,Capsaicin,"Flavor, metabolism boost",0,None,7
+tamarind concentrate,"Acid, Sugar, Digestive aid",0,High sugar content,Diabetes,6
+tamarind paste,"Acid, Sugar, Digestive aid",0,High sugar content,Diabetes,6
+demerara sugar,Sucrose,0,High sugar content,Diabetes,4
+muscovado sugar,"Sucrose, Molasses",0,High sugar content,Diabetes,4
+raw sugar,Sucrose,0,High sugar content,Diabetes,4
+golden caster sugar,Fine baking sugar,0,High sugar content,Diabetes,4
+silvered almonds,"Protein, Fat","Heart health, vitamin E",0,Nut allergies,8
+pistachio slivers,"Protein, Healthy fats","Heart health, fiber",0,Nut allergies,8
+cashew pieces,"Protein, Magnesium","Bone health, energy",0,Nut allergies,7
+walnut halves,"Omega-3, Protein","Brain health, anti-inflammatory",0,Nut allergies,9
+pecan halves,"Fats, Fiber","Heart health, antioxidants",0,Nut allergies,8
+hazelnuts,"Vitamin E, Protein","Heart health, antioxidants",0,Nut allergies,8
+macadamia nuts,"Fats, Minerals","Heart health, satiety",0,Nut allergies,7
+brazil nuts,"Selenium, Fats","Thyroid health, antioxidants",0,Selenium overdose alert,8
+pine nuts,"Vitamins, Minerals","Energy, appetite suppression",0,Nut allergies,7
+dried cranberries,Antioxidants,"UTI prevention, antioxidants",0,Added sugar,6
+dried blueberries,Antioxidants,"Cognitive health, antioxidants",0,Added sugar,7
+dried apricots,"Fiber, Vitamins","Eye health, digestive health",0,Sulfite sensitivity,7
+dried figs,"Fiber, Calcium","Bone health, digestive aid",0,None,8
+dried dates,"Fiber, Potassium","Energy, natural sweetness",0,Diabetes,6
+golden raisins,Antioxidants,"Snacking, natural sweetness",0,Diabetes,6
+sultanas,Antioxidants,"Energy, micronutrients",0,Diabetes,6
+currants,"Vitamins, Antioxidants",Antioxidant properties,0,Diabetes,6
+sun-dried tomatoes,"Vitamins, Lycopene","Antioxidant, flavor enhancement",0,Hypertension,7
+dried mushrooms,"Vitamins, Minerals","Umami flavor, nutrient boost",0,None,8
+seaweed flakes,"Iodine, Fiber","Thyroid support, digestion",0,Thyroid disorders,8
+nutritional yeast,"B vitamins, Protein","Umami flavor, nutrient boost",0,None,9
+ashwagandha,Adaptogens,"Improves stress response, enhances stamina",0,Thyroid conditions,8
+triphala,Antioxidant-rich,"Supports digestion, promotes detoxification",0,None,8
+brahmi,Brain-boosting chemicals,"Enhances cognitive functions, reduces anxiety",0,None,9
+shatavari,Hormonal support agents,"Supports reproductive health, balances hormones",0,None,8
+tulsi,Immune-boosting oils,"Strengthens immunity, lowers stress levels",0,None,9
+neem,Detoxifying agents,"Improves skin health, purifies blood",0,None,8
+amla,Vitamin C Powerhouse,"Boosts immunity, promotes hair and skin health",0,None,9
+bhringraj,Liver and hair health compounds,"Promotes hair growth, supports liver detox",0,None,8
+guduchi,Immune enhancers,"Boosts immunity, reduces fever symptoms",0,None,9
+arjuna,Cardio beneficial compounds,Strengthens heart function,0,Heart conditions,8
+giloy,Immune-support compounds,"Enhances overall immunity, good for joint health",0,None,9
+kutki,Liver health compounds,"Enhances liver function, aids digestion",0,None,8
+haritaki,Digestive support agents,"Promotes digestive health, purifies blood",0,None,8
+bibhitaki,Respiratory system compounds,"Supports respiratory health, aids in digestion",0,None,8
+jatamansi,Stress relief agents,"Reduces stress, improves sleep quality",0,None,8
+ashoka,Female health compounds,"Regulates menstrual cycle, reduces pain",0,None,8
+gotu kola,Cognitive function agents,"Improves memory, supports wound healing",0,None,9
+moringa,Nutrient-packed,"Enhances nutritional intake, stabilizes blood sugar",0,None,9
+turmeric,Anti-inflammatory curcumin,"Reduces inflammation, aids digestion",0,None,9
+ginger,Digestive health gingerol,"Soothes nausea, supports digestion",0,None,9
+licorice,Soothing glycyrrhizin,"Relieves stomach discomfort, supports adrenal glands",0,Hypertension,7
+fennel,Bloating relief elements,"Reduces gas, aids digestion",0,None,8
+fenugreek,Blood sugar regulation agents,"Manages blood sugar levels, cholesterol",0,Diabetes,8
+cumin,Digestion aid elements,"Stimulates digestion, boosts immunity",0,None,8
+coriander,Digestive support agents,Promotes liver function and digestion,0,None,8
+long pepper,Respiratory and digestive aid,"Supports respiratory function, enhances digestion",0,None,8
+clove,Pain relief and antibacterial,"Eases toothache, has antimicrobial properties",0,None,8
+ajwain,Indigestion relief agent,"Treats indigestion, has antiseptic properties",0,None,8
+dandelion,Detoxifying elements,"Supports liver health, aids digestion",0,None,8
+burdock root,"Fiber, antioxidants","Purifies blood, improves skin health",0,None,8
+sarsaparilla,Antioxidant compounds,"Detoxifies body, improves skin health",0,None,8
+manjistha,Detox and skin health,"Purifies blood, improves skin tone",0,None,8
+shilajit,"Minerals, fulvic acid","Increases energy, improves mineral balance",0,None,8
+guggul,Gum resin,"Lowers cholesterol, supports weight loss",0,None,7
+boswellia,Anti-inflammatory,"Reduces inflammation, aids joint health",0,None,8
+valerian,Sleep aid,"Improves sleep quality, reduces anxiety",0,None,8
+bacopa,Brain tonic,"Enhances brain function, reduces stress",0,None,9
+holy basil,Adaptogen,"Reduces stress, lowers blood sugar",0,Diabetes,9
+rhodiola,Adaptogen,Improves mental and physical stamina,0,None,8
+hawthorn,Heart health,Supports cardiovascular health,0,Heart conditions,8
+milk thistle,Liver protector,Detoxifies and protects liver,0,None,8
+dill seeds,Digestive aid,"Improves digestion, soothes colic",0,None,8
+camphor,Topical analgesic,"Relieves pain, reduces itchiness",0,Can be toxic if ingested,6
+vacha,Cognitive enhancer,"Improves speech clarity, aids memory",0,High doses can be neurotoxic,7
+kalmegh,Immune booster,"Strengthens immunity, detoxifies liver",0,None,8
+punarnava,Diuretic,"Reduces water retention, supports kidney health",0,None,8
+chyawanprash,Nutrient-rich jam,"Boosts immunity, enhances digestion",0,Diabetes,7
+trikatu,Digestive stimulant,"Enhances metabolism, aids digestion",0,None,8
+chandan,Skin soothing,"Improves skin health, reduces acne",0,None,8
+yastimadhu,Gastric relief,"Soothes gastric issues, relieves cough",0,Hypertension,7
+anantamul,Blood purifier,"Improves skin health, purifies blood",0,None,8
+aritha,Natural cleanser,"Cleans hair, improves scalp health",0,Eye irritation if contact occurs,7
+shikakai,Hair tonic,"Promotes hair growth, naturally conditions hair",0,None,8
+brahmi oil,Hair and scalp nourishment,"Strengthens hair, improves cognition when massaged into scalp",0,None,8
+bala,Strength enhancer,"Improves strength, supports overall vitality",0,None,8
+dashamoola,Anti-inflammatory,"Reduces inflammation, supports respiratory health",0,None,8
+vidari,Rejuvenative,"Enhances vitality, supports reproductive health",0,None,8
+vijaysar,Blood sugar regulator,"Manages diabetes, improves digestion",0,Diabetes,7
+nagarmotha,Digestive aid,"Improves digestion, aids weight loss",0,None,8
+kapikacchu,Nervous system support,"Supports nervous system, improves vitality",0,None,8
+gokshura,Urinary and libido enhancer,"Improves urinary health, enhances libido",0,None,8
+kanchnar,Thyroid function regulator,"Regulates thyroid activity, supports lymphatic system",0,Thyroid conditions,7
+lodhra,Women's health tonic,"Regulates menstrual cycle, supports skin health",0,None,8
+musli,Vitality booster,"Enhances vitality, improves stamina",0,None,8
+kalonji,Immune system and digestion,"Strengthens immunity, aids digestion",0,None,8
+methi,Blood sugar and lactation,"Controls blood sugar, increases milk production in breastfeeding",0,"Diabetes, Pregnancy",8
+senna leaves,Laxative,Relieves constipation,0,Overuse can lead to dependency,6
+isabgol,Fiber source,"Relieves constipation, aids in digestion",0,Excessive use can cause bloating,8
+henna,Coloring and conditioning,"Colors hair, conditions scalp",0,Rare allergic reactions,7
+indigo,Natural dye,Dyes hair naturally without chemicals,0,Rare allergic reactions,7
+aloe vera,Hydration and healing,"Moisturizes skin, heals minor burns",0,Overuse can cause skin irritation,9
+lemongrass,Essential oils,"Relieves anxiety, aids digestion",0,Possible skin irritation when applied topically,8
+mint,Cooling effect,"Soothes digestion, freshens breath",0,None,9
+rosemary,Antioxidants,"Improves memory, stimulates hair growth",0,None,8
+sage,Antioxidant-rich,"Supports oral health, improves cognition",0,Excessive consumption can be toxic,7
+thyme,Antimicrobial,"Supports immunity, cough relief",0,None,8
+oregano,Antioxidants and oils,"Antibacterial, anti-inflammatory",0,None,9
+tulsi seeds,Adaptogens,"Reduces stress, supports immunity",0,None,9
+pumpkin seeds,"Minerals, healthy fats","Improves heart health, prostate health",0,None,9
+wheatgrass,"Chlorophyll, nutrients","Detoxification, boosts metabolism",0,None,9
+safflower oil,High-oleic,"Supports heart health, good for cooking",0,None,7
+krill oil,Omega-3 fatty acids,"Supports heart health, reduces inflammation",0,Shellfish allergies,8
+mct oil,Medium-chain triglycerides,"Boosts energy, aids in weight management",0,None,8
+algal oil,Omega-3 DHA,"Supports brain health, vegetarian-friendly",0,None,9
+adaptogenic herbs,Varies,"Reduces stress, supports energy levels",0,None,8
+eleuthero,"Adaptogen, Siberian Ginseng","Increases endurance, reduces stress",0,None,8
+fruit purees,"Natural sugars, Vitamins","Adds sweetness and moisture, nutrient boost",0,None,7
+potato starch,Carbohydrates,"Thickens without altering taste, gluten-free alternative",0,None,6
+rice bran,"Fiber, Antioxidants","Lowers cholesterol, adds nutrients to baked goods",0,None,7
+gluten-free baking mix,Varied nutrients based on mix,"Convenient, suitable for gluten intolerance",0,Celiac disease,7
+almond meal,"Vitamin E, Healthy fats","Gluten-free baking option, heart-healthy",0,Nut allergies,8
+hazelnut meal,"Vitamins, Healthy fats","Rich flavor for pastries, heart-healthy",0,Nut allergies,8
+pecan meal,"Antioxidants, Fats","Nutrient-rich, adds flavor to baked goods",0,Nut allergies,7
+walnut meal,"Omega-3, Protein","Supports brain health, adds rich texture",0,Nut allergies,8
+coconut meat powder,"Fiber, Medium-chain fats","Improves satiety, aids digestion",0,None,7
+egg replacer powder (vegan),Varied nutrients,"Mimics eggs in baking, suitable for vegans",0,Egg allergies,7
+agar powder,"Gelatinous, Vegan","Vegan gelatin substitute, suitable for jelling",0,None,8
+maple flavor,Flavor,Adds maple taste without actual sugar,0,None,6
+orange extract,Flavor,Strong orange flavor for baking and desserts,0,None,7
+lavender extract,Flavor,Unique floral flavor for baked goods,0,None,8
+beet powder,Natural color,"Adds color with nutritional benefits, good for coloring foods naturally",0,None,8
+spinach powder,"Vitamins, Iron","Natural coloring, adds nutrients",0,None,7
+blueberry powder,Antioxidants,"Flavor and natural coloring, antioxidant benefits",0,None,8
+raspberry powder,"Fiber, Flavor",Adds taste and nutrients,0,None,8
+carrot juice powder,Beta-carotene,"Natural coloring, vitamin A boost",0,None,7
+pumpkin powder,"Vitamins, Fiber","Flavor addition, rich in nutrients",0,None,8
+sour cherry powder,Antioxidants,Adds tartness and nutrients,0,None,8
+banana powder,"Potassium, Vitamins",Sweetness and moisture in baking,0,None,7
+apple powder,"Fiber, Flavor","Natural sweetness, flavor enhancement",0,None,7
+pear powder,"Fiber, Flavor",Adds sweetness and moisture,0,None,7
+peach powder,"Vitamins, Flavor","Natural sweetness, flavoring",0,None,7
+sorghum syrup,Antioxidants,"Sweetener with nutrients, gluten-free",0,Diabetes,6
+date sugar,"Fiber, Nutrients","Natural sweetener, nutrient-rich",0,Diabetes,7
+birch xylitol,Sugar alcohol,"Low-calorie sweetener, dental health",0,Digestive upset if overconsumed,7
+inulin powder,Fiber,"Prebiotic, aids digestion",0,May cause bloating in some,7
+psyllium husk powder,Fiber boost in gluten-free baking,0,Excessive intake can cause blockage,None,8
+flaxseed meal,"Omega-3, Fiber","Egg substitute, adds omega-3",0,None,8
+chia seed gel,"Fiber, Omega-3","Egg substitute, hydration",0,None,8
+hemp protein powder,"Protein, Minerals",Protein boost in baked goods,0,None,8
+pea protein powder,Protein,Adds protein to baked goods,0,None,8
+rice protein powder,Protein,Gluten-free protein addition,0,None,7
+black sesame paste,"Antioxidants, Fats",Flavor in Asian bakery items,0,None,8
+green tea powder,Antioxidants,"Flavoring cakes, health benefits",0,None,8
+coffee powder,"Flavor, Caffeine",Flavoring cakes and cookies,0,None,8
+cocoa nibs,Texture and flavor,Adds crunch and chocolatey flavor to baked goods,0,None,8
+candied ginger,Flavor,Adds spicy-sweet flavor to baked goods,0,High in sugar,6
+dried fruits,"Natural sugars, Fiber",Adds sweetness and texture to breads and cakes,0,High in natural sugars,7
+nuts,"Healthy fats, Protein",Adds crunch and nutritional value to baked goods,0,Nut allergies,8
+seeds,"Fiber, Nutrients",Adds texture and boosts nutrition in breads,0,None,8
+rolled oats,"Fiber, Protein",Adds texture and nutrition to cookies and breads,0,Gluten sensitivity (if not certified GF),7
+steel-cut oats,"Fiber, Protein",Provides hearty texture in breads,0,Gluten sensitivity (if not certified GF),7
+graham flour,Whole Grain,rich in fiber,0,Gluten sensitivity,7
+vital wheat gluten,Protein,0,Gluten presence,Celiac disease,5
+dutch-processed cocoa powder,Flavor,Provides rich chocolate flavor in baked goods,0,None,8
+powdered egg whites,Protein,Used in meringues and angel food cakes for structure,0,Egg allergies,8
+citrus zest,Flavor,Adds fresh flavor to cakes and pastries,0,None,9
+edible flowers,Decoration,Beautifies cakes and cupcakes,0,None,8
+pearl sugar,Decoration,0,High in sugar,None,6
+sanding sugar,Decoration,0,High in sugar,None,6
+pretzel salt,Texture and flavor,0,High sodium intake,Hypertension,6
+caraway seeds,Flavor,Adds distinctive taste to rye breads,0,None,8
+anise seeds,Flavor,"Imparts sweet, licorice flavor to Italian cookies",0,None,8
+dried rosemary,Flavor,Adds aromatic flavor to savory baked goods,0,None,8
+dried thyme,Flavor,Enhances savory scones and biscuits,0,None,8
+dried oregano,Flavor,Brings Italian flavor to breads,0,None,8
+Cumin Seeds,"Iron, Magnesium","Digestive aid, boosts immunity",0,None,8
+clove powder,Spice,Adds depth to spice cakes and cookies,0,None,8
+cardamom powder,Flavor,Brings aromatic spice to Scandinavian and Indian baking,0,None,9
+vanilla bean paste,Rich vanilla flavor,Intense vanilla taste for pastries and creams,0,None,9
+royal icing,Decoration,0,High in sugar,None,6
+ganache,Filling and topping,0,High in fat,None,7
+buttercream frosting,Topping,0,High in fat and sugar,None,6
+Cream Cheese,"Fat, Protein",0,High in saturated fat,Heart conditions,5
+salted caramel,Flavoring and topping,0,High in sugar,None,6
+mirror glaze,Decoration,0,High in sugar,None,6
+lemon curd,Filling,0,High in fat,None,7
+fruit compotes,Fillings or toppings,Sweet and natural fruit flavor,0,None,7
+chocolate ganache,Filling and glazing,0,High in fat,None,7
+meringue powder,Meringues and icing,Stable egg white substitute for baking,0,Egg allergies,8
+pastry cream powder,Quick custard fillings,0,Varies by brand,None,6
+gelatin sheets,Mousses and jellies,0,Animal product,Vegetarians,5
+clear glaze,Fruit tarts,"Gives pastries a shiny, appealing look",0,None,6
+silver dragées,Decoration,0,Choking hazard,None,5
+distilled vinegar,Acetic Acid,"Culinary uses, cleaning",0,None,7
+white wine vinegar,Acetic Acid,"Enhances flavor in cooking, mild preservative",0,None,7
+malt vinegar,Acetic Acid,0,Contains gluten,Gluten sensitivity,6
+cane vinegar,Acetic Acid,Mild flavor for culinary uses,0,None,7
+spirit vinegar,High Acetic Acid,"Strong preservative, used in condiments",0,None,7
+lemon juice concentrate,Vitamin C,"Flavor enhancement, enriches with Vitamin C",0,None,8
+lime juice concentrate,Vitamin C,"Flavor enhancement, Vitamin C source",0,None,8
+orange juice concentrate,"Vitamin C, Sugars",0,High sugar content,Diabetes,7
+pomegranate molasses,"Antioxidants, Sugars",0,High sugar content,Diabetes,7
+worcestershire sauce,"Vitamins, Umami",Adds depth to dishes,0,None,7
+hot sauce,Capsaicin,Adds heat without significant calories,0,None,8
+barbecue sauce,"Sugars, Spices",0,High sugar content,Diabetes,6
+plum sauce,"Sugars, Spices",Adds sweet and tangy flavor,0,None,6
+duck sauce,"Sugars, Fruit purees",Adds sweet flavor to dishes,0,None,6
+szechuan sauce,"Spices, Umami","Adds bold, spicy flavor",0,None,7
+thai sweet basil,"Vitamins, Minerals",Enhances flavor with health benefits,0,None,8
+kaffir lime leaves,Flavor,Adds citrus flavor to Thai dishes,0,None,8
+galangal,"Flavor, Anti-inflammatory","Enhances flavor, aids digestion",0,None,8
+wasabi powder,"Flavor, Antioxidants","Adds heat, potential antimicrobial properties",0,None,7
+wasabi paste,"Flavor, Antioxidants","Adds spicy heat, may reduce bacteria",0,None,7
+horseradish sauce,"Flavor, Vitamin C","Adds pungent flavor, may aid in sinus relief",0,None,7
+za'atar,"Herbs, Sesame seeds","Adds Middle Eastern flavor, nutrient boost",0,None,8
+sumac,Antioxidants,"Adds tangy flavor, antioxidant properties",0,None,8
+dijon mustard,"Flavor, Antioxidants","Flavor enhancement, contains antioxidants",0,None,8
+whole grain mustard,"Seeds, Vinegar",Adds texture and flavor to dishes,0,None,8
+yellow mustard seeds,"Flavor, Antioxidants","Used in condiments, potential health benefits",0,None,8
+black mustard seeds,"Flavor, Nutrients","Adds spicy flavor, used in Indian cooking",0,None,8
+brown mustard seeds,"Flavor, Antioxidants","Adds pungent flavor, used in condiments",0,None,8
+mustard powder,Ground mustard seeds,"Flavor enhancement, contains antioxidants",0,None,8
+mayonnaise,"Eggs, Oil",0,"Rich flavor for dressings and sauces, high in fat",Heart conditions,5
+vegan mayonnaise,Plant-based oils,"Alternative to traditional mayo, lower in saturated fat",0,None,6
+aioli,"Garlic, Olive oil",0,"Flavorful condiment for dishes, high in fat",Heart conditions,6
+remoulade,"Mayonnaise base, Herbs",0,"Adds rich flavor to seafood, high in fat",Heart conditions,6
+tartar sauce,"Mayonnaise base, Pickles",0,"Common with fried fish dishes, high in fat",Heart conditions,6
+caesar dressing,"Anchovies, Parmesan",0,"Rich flavor for Caesar salads, high in fat and calories",Heart conditions,5
+italian dressing,"Vinegar, Herbs","Adds zest to salads, marinades",0,None,7
+ranch dressing,"Buttermilk, Herbs",0,"Popular in salads and as a dip, high in fat",Heart conditions,5
+thousand island dressing,"Mayonnaise base, Ketchup",0,"Sweet and tangy flavor for salads, high in sugar and fat","Diabetes, Heart conditions",5
+vinaigrette,"Oil, Vinegar","Light dressing option, customizable",0,None,6
+balsamic glaze,"Balsamic Vinegar, Sugar",0,"Adds sweet depth to dishes, decorative, high in sugar",Diabetes,6
+anchovy paste,"Anchovies, Salt",0,"Umami depth for dressings and sauces, high in sodium",Hypertension,6
+capers in brine,Brined or Salted,0,"Adds tanginess, vitamin-rich",Hypertension,7
+pickled ginger,"Ginger, Vinegar","Served with sushi, aids digestion",0,Hypertension,7
+gherkins,"Fiber, Vitamin K","Adds crunch and tanginess, digestive aid",0,Hypertension,7
+cornichons,"Fiber, Antioxidants","Similar to gherkins, provides tangy flavor",0,Hypertension,7
+olive tapenade,"Healthy Fats, Fiber","Rich in monounsaturated fats, flavor enhancer",0,None,8
+green olive paste,"Vitamins, Minerals","Adds Mediterranean flavor, heart healthy",0,None,8
+black olive paste,"Iron, Dietary Fiber","Flavorful addition to dishes, nutrient-rich",0,None,8
+truffle oil,Aromatic Compounds,Adds luxurious flavor to dishes,0,None,7
+sesame oil,"Vitamin E, Healthy Fats","Promotes heart health, adds nutty flavor",0,None,8
+herb-infused oils,Phytonutrients,Enhances flavor with health benefits of herbs,0,None,8
+anchovies in oil,Omega-3 Fatty Acids,"Rich in protein and omega-3, flavor enhancer",0,Hypertension,7
+sardines in sauce,"Omega-3, Calcium","High in omega-3 and calcium, nutritious",0,Hypertension,7
+acetic acid,Preservative ,0,Concentrated form can be corrosive,None,5
+anchovy extract,Umami Flavor,Enhances flavors in sauces and dressings,0,Hypertension,6
+annatto seeds,Antioxidants,"Natural food coloring, mild flavor enhancement",0,None,7
+apple juice concentrate,Natural Sugars,"Sweetens naturally, can concentrate nutrients",0,Diabetes,6
+apricot puree,"Vitamin A, C","Natural sweetener, adds moisture and nutrients",0,None,7
+arrowroot starch,Carbohydrates,"Thickening agent, gluten-free",0,None,8
+black garlic paste,Antioxidants,"Enhanced sweet flavor, immune support",0,None,8
+black olives,Healthy Fats,"Adds depth to recipes, contains healthy fats",0,None,8
+buffalo sauce,Capsaicin,"Adds spicy, tangy flavor to dishes",0,None,5
+caraway seed oil,Essential Oils,"Flavoring for breads, potential digestive aid",0,None,7
+celery seeds,Antioxidants,"Flavor enhancement, potential anti-inflammatory benefits",0,None,7
+chervil,"Vitamins, Minerals","Adds mild, anise-flavored herbiness to dishes",0,None,8
+chipotle peppers in adobo,"Capsaicin, Vitamins","Adds smoky heat, rich in antioxidants",0,None,7
+chive oil,"Vitamins, Antioxidants","Flavor enhancement, rich in nutrients",0,None,8
+coconut aminos,Amino Acids,"Soy sauce alternative, lower in sodium",0,None,8
+cornichon pickles,"Fiber, Vitamin K","Adds crunch and tanginess, digestive aid",0,Hypertension,7
+cream of coconut,Saturated Fats,0,High in saturated fat,Heart conditions,5
+creme fraiche,"Fat, Probiotics",0,High in fat,Heart conditions,6
+crystallized ginger,"Sugars, Gingerol",indigestion,0,Diabetes,6
+curry leaves powder,Antioxidants,potential health benefits,0,None,8
+dill weed,"Vitamins, Minerals","Flavor enhancement, supports digestion",0,None,8
+elderflower syrup,Flavor,0,High sugar content,Diabetes,6
+fish extract,"Protein, Omega-3","Flavor enhancer, nutritious",0,Hypertension,6
+garlic salt,"Sodium, Garlic Compounds","Convenient seasoning, adds garlic flavor",0,Hypertension,5
+ginger paste,"Gingerol, Fiber","Adds spice and flavor, digestive aid",0,None,8
+green chili paste,Capsaicin,Adds heat and flavor to dishes,0,None,8
+green olives,"Healthy Fats, Fiber","Adds Mediterranean flavor, contains healthy fats",0,None,8
+guava puree,"Vitamin C, Fiber","Natural sweetener, adds tropical flavor",0,None,8
+hickory smoke flavor,Flavor Compounds,0,Artificial components,None,6
+honey mustard,"Honey, Mustard",Sweet and tangy condiment,0,Diabetes,6
+horseradish powder,Glucosinolates,"Adds pungent flavor, may support respiratory health",0,None,7
+jalapeno puree,"Capsaicin, Vitamins",Spicy flavor enhancer,0,None,8
+kalamata olives,Healthy Fats,"Rich flavor, heart-healthy",0,None,8
+rice cereal,"Simple carbs, Iron",Iron-fortified for development,0,Arsenic sensitivity,6
+oatmeal cereal,"Fiber, Protein",Supports heart and digestive health,0,Gluten sensitivity (if not certified GF),8
+barley cereal,"Fiber, Vitamins B","Rich in fiber, supports digestion",0,Celiac disease,5
+multigrain cereal,Various nutrients,"High in fiber, supports heart health",0,Celiac disease,7
+banana puree,"Potassium, Vitamin C","Natural sweetness, nutrient boost",0,None,9
+apple puree,"Fiber, Vitamin C","Supports digestion, natural sweetness",0,None,9
+pear puree,"Fiber, Vitamin C","Gentle on the stomach, hydrating",0,None,9
+peach puree,Vitamins A & C,"Antioxidant-rich, supports immunity",0,None,9
+prune puree,"Fiber, Potassium","Aids in digestion, natural laxative effect",0,None,8
+sweet potato puree,"Beta-carotene, Vitamins","Supports vision, strengthens immunity",0,None,9
+pumpkin puree,"Vitamins A & C, Fiber","Boosts immunity, promotes eye health",0,None,9
+carrot puree,"Beta-carotene, Fiber","Supports eye health, good for digestion",0,None,9
+pea puree,"Protein, Fiber","High in protein and fiber, supports heart health",0,None,8
+green bean puree,"Vitamins A, C, Fiber","Supports healthy digestion, rich in antioxidants",0,None,8
+blueberry puree,"Antioxidants, Vitamin C","High in antioxidants, supports brain function",0,None,9
+mango puree,"Vitamins A & C, Fiber","Boosts immunity, improves digestion",0,None,9
+avocado puree,"Healthy Fats, Fiber","Supports brain development, heart-healthy",0,None,9
+chicken puree,"Protein, B Vitamins","High in protein, supports growth and development",0,None,8
+turkey puree,"Protein, Selenium","Lean protein source, supports immune function",0,None,8
+beef puree,"Iron, Protein","Supports red blood cell development, high in protein",0,None,7
+lamb puree,"Protein, Zinc","Rich in protein, supports immune function",0,None,7
+salmon puree,Omega-3 Fatty Acids,"Supports brain development, heart health",0,None,9
+cod puree,"Protein, Vitamin D","Lean protein, supports bone health",0,None,8
+amaranth,"Protein, Lysine","Gluten-free, high in micronutrients",0,None,9
+buckwheat,"Fiber, Protein","Supports heart health, gluten-free",0,None,9
+broccoli puree,"Vitamin C, K","Nutrient-dense, supports immune system",0,None,9
+spinach puree,"Iron, Magnesium","Supports bone health, rich in iron",0,None,9
+kale puree,"Vitamins A, C, K","Antioxidant-rich, supports heart health",0,None,9
+zucchini puree,"Vitamin C, Potassium","Low calorie, supports hydration",0,None,9
+butternut squash puree,Vitamins A & C,"Boosts vision and immunity, fiber-rich",0,None,9
+cauliflower puree,"Vitamin C, Choline","Supports brain health, rich in antioxidants",0,None,9
+beet puree,"Folate, Fiber","Supports heart health, improves endurance",0,None,9
+parsnip puree,"Fiber, Vitamin C","Aids in digestion, supports immune function",0,None,9
+blackberry puree,"Vitamin C, K","High in antioxidants, supports oral health",0,None,9
+raspberry puree,"Fiber, Vitamins","Antioxidant-rich, supports digestion",0,None,9
+strawberry puree,"Vitamin C, Manganese","Supports immune system, heart health",0,None,9
+greek yogurt,"Protein, Probiotics","Supports digestion, bone health",0,Lactose intolerance,9
+kefir,"Probiotics, Calcium","Improves gut health, supports bone strength",0,Lactose intolerance,9
+chia seeds,"Omega-3, Fiber","Supports heart health, aids in digestion",0,None,9
+hemp seeds,"Protein, Omega-3","Supports heart health, rich in plant-based protein",0,None,9
+carrot powder,"Beta-carotene, Fiber","Supports vision, nutritional boost",0,None,9
+sweet corn powder,"Vitamins, Fiber","Natural sweetener, energy source",0,None,7
+whey protein (for toddlers),"Protein, Amino acids","Supports growth, muscle development",0,Milk allergies,8
+vitamin a palmitate,Vitamin A,Supports vision and immune function,0,None,9
+vitamin c (ascorbic acid),Vitamin C,"Antioxidant, supports immune health",0,None,9
+vitamin d3,Vitamin D,"Supports bone health, immune function",0,None,9
+vitamin e (alpha tocopherol),Vitamin E,"Antioxidant, supports skin health",0,None,9
+vitamin k1,Vitamin K,"Supports bone health, blood clotting",0,None,9
+thiamine mononitrate (vitamin b1),Vitamin B1,"Energy metabolism, nerve function",0,None,9
+riboflavin (vitamin b2),Vitamin B2,"Energy production, eye health",0,None,9
+niacin (vitamin b3),Vitamin B3,"Supports metabolism, skin health",0,None,9
+pantothenic acid (vitamin b5),Vitamin B5,"Hormone synthesis, energy production",0,None,9
+pyridoxine hydrochloride (vitamin b6),Vitamin B6,"Neurotransmitter synthesis, immune support",0,None,9
+biotin (vitamin b7),Vitamin B7,"Supports metabolism, hair and skin health",0,None,9
+folic acid (vitamin b9),Vitamin B9,"Cell growth, maternal health during pregnancy",0,None,9
+cyanocobalamin (vitamin b12),Vitamin B12,"Nerve function, red blood cell formation",0,None,9
+calcium carbonate,Calcium,"Bone health, nerve signaling",0,None,9
+iron (ferrous fumarate),Iron,"Hemoglobin formation, energy metabolism",0,None,9
+zinc sulfate,Zinc,"Immune function, wound healing",0,None,9
+magnesium oxide,Magnesium,"Muscle and nerve function, energy production",0,None,9
+copper sulfate,Copper,"Iron absorption, supports cardiovascular health",0,None,9
+manganese sulfate,Manganese,"Bone formation, antioxidant defense",0,None,9
+sodium selenite,Selenium,"Antioxidant, supports metabolism",0,None,9
+chromium chloride,Chromium,"Glucose metabolism, enhances insulin action",0,None,9
+molybdenum amino acid chelate,Molybdenum,"Enzyme function, metabolism support",0,None,9
+potassium iodide,Iodine,"Thyroid health, cognitive function",0,None,9
+dha (docosahexaenoic acid),Omega-3 Fatty Acids,"Brain development, eye health",0,None,9
+ara (arachidonic acid),Omega-6 Fatty Acids,"Supports brain development, immune function",0,None,9
+lutein,Carotenoid,"Eye health, may protect against light-induced damage",0,None,9
+lycopene,Carotenoid,"Antioxidant, may reduce the risk of certain cancers",0,None,9
+prebiotic fibers (GOS FOS),Fiber,"Supports digestive health, fosters healthy gut flora",0,None,8
+probiotics (Bifidobacterium lactis  Lactobacillus rhamnosus),Probiotics,"Enhances gut health, supports immune function",0,None,9
+natural vanilla flavor,Flavor,Adds sweetness without sugar,0,None,8
+natural banana flavor,Flavor,"Adds banana flavor to foods, allergen-free",0,None,8
+natural berry flavor,Flavor,"Enhances taste with berry flavor, no added sugars",0,None,8
+corn syrup solids,Sugars,0,High sugar content,Diabetes,4
+palm olein,Saturated Fat,0,High in saturated fats,Heart conditions,5
+soy lecithin,Phospholipids,"Emulsifier in foods, supports brain health",0,Soy allergies,7
+high oleic sunflower oil,Monounsaturated Fats,"Improves shelf life, lower in saturated fat",0,None,8
+high oleic safflower oil,Monounsaturated Fats,"Heart healthy, used in cooking and formulas",0,None,8
+algal oil (source of dha),Omega-3 Fatty Acids,"Vegan DHA source, supports brain and eye health",0,None,9
+mortierella alpina oil (source of ara),Omega-6 Fatty Acids,Supports brain development and immune system,0,None,9
